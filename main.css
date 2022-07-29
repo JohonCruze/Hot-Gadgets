@@ -1,0 +1,52 @@
+/* Default Css */
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span,
+a {
+  font-family: "Poppins", sans-serif;
+}
+
+a {
+  font-size: 18px;
+}
+section{
+  padding: 50px 0;
+}
+
+.buy-now {
+  font-size: 15px;
+  font-weight: 500;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: #000000;
+}
+.card-body {
+  margin-top: 20px;
+  margin-bottom: -20px;
+}
+
+.rectangle {
+  text-align: center;
+  height: 5px;
+  width: 100px;
+  background-color: #ffd019;
+  margin: 0 auto;
+}
+.justify-content-center {
+  -ms-flex-pack: center!important;
+  justify-content: center!important;
+  
+}
+
+
+.category-item {
+  padding:  20px 20px;
+}
+
